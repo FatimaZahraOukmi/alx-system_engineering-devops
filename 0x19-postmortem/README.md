@@ -1,5 +1,7 @@
 - Incident Postmortem: Mobile Application Downtime
 
+![19](https://github.com/FatimaZahraOukmi/alx-system_engineering-devops/assets/125568210/d832c91d-7a87-460e-b79f-e96545086556)
+
 * Incident Summary:
 
 Duration: April 12, 2023, from 2:00 PM to 5:30 PM (local time)

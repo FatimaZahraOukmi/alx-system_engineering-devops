@@ -19,7 +19,7 @@ def count_words(subreddit, word_list, hot_list=[], viewed_count=0, after=''):
     headers = {'User-Agent': 'Python/1.0(Holberton School 0x16 task 3)'}
     response = requests.get(url, headers=headers)
     if not response.ok:
-            return
+        return
 
     data = response.json()['data']
     for post in data['children']:
